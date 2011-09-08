@@ -60,7 +60,8 @@ node index.js --with-my-flag=value
 node index.js --with-my-flag="some value with spaces"
 ```
 
-If you supply an option `argvPrefix` with the value `'lb'` for example, 
+If you supply an option `argvPrefix` with the value `'lb'` for example, then
+the option becomes `--enable-lb-flag`.
 
 #### With environment variables
 
