@@ -7,6 +7,14 @@ exports.Config = Config;
 exports.createConfig = createConfig;
 
 /**
+ * Version
+ *
+ * @api public
+ */
+
+exports.version = '0.0.2';
+
+/**
  * Configuration constructor.
  *
  * @param {Object} options

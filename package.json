@@ -1,12 +1,12 @@
 {
     "name": "cfg"
-  , "version": "0.0.1"
+  , "version": "0.0.2"
   , "main": "cfg"
   , "repository":{
         "type": "git"
       , "url": "https://github.com/LearnBoost/cfg.js.git"
     }
-  , "dependencies": {
+  , "devDependencies": {
         "expresso": "0.8.1"
       , "should": "0.3.1"
     }
