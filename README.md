@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/LearnBoost/cfg.js.png)](http://travis-ci.org/LearnBoost/cfg.js)
 # cfg: Node minimal configuration engine
 
 `cfg` is a minimal configuration API for Node.JS, with support for
